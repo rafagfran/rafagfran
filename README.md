@@ -9,12 +9,9 @@
   </a>
 </div>
 
-
 <div>
-
   <img align="center" alt="Rafa-Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-
 </div>
 
 ---
