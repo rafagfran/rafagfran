@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Rafael Gonçalves👋
 
 > 📚 Graduando na Fatec-SJRP
->  ![image](https://github.com/rafagfran/rafagfran/assets/111470811/10e11078-d227-4337-a88c-1e3700619ce8) Estudando JAVA e SpringBoot
+> Estudando JAVA e SpringBoot
 
 
 ---
