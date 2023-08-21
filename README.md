@@ -9,7 +9,8 @@
 ![e-mail (1)](https://user-images.githubusercontent.com/111470811/185405198-7cb41a8e-42e4-4e7f-a438-19b48e5c6616.png) Rafagfra@hotmail.com <br>
 ![linkedin (1)](https://user-images.githubusercontent.com/111470811/185406288-7aaab95a-77e0-4126-8d0d-18a0687a1dc9.png) https://www.linkedin.com/in/rafael-g-francisco-90a886210/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagfran&hide=contribs,prs&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagfran&hide=contribs,prs&show_icons=true&theme=tokyonight&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagfran&size_weight=0.5&count_weight=0.5&exclude_repo=Project-in-VBA&layout=compact)
 
 ---
