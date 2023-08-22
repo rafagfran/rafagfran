@@ -1,4 +1,4 @@
-## Olá, Eu sou o Rafael Gonçalves, graduando em tecnologia!
+## Olá, eu sou o Rafael Gonçalves!
 
 <div>
   <a href="https://github.com/rafagfran/github-readme-stats">
