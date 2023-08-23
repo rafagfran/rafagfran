@@ -2,7 +2,7 @@
 
 **`Graduando na FATEC-São José do Rio Preto`**
 
-Sou um estudante de tecnologia com experiencia em infraestrutura e dedicado ao desenvolvimento de aplicações. Este repositório é um reflexo do meu compromisso em aprender, inovar e compartilhar meus avanços.
+Sou um estudante de tecnologia com experiencia em infraestrutura e dedicado a estudo de desenvolvimento de aplicações. Este repositório é um reflexo do meu compromisso em aprender, inovar e compartilhar meus avanços.
 
 <div> 
   <a href="https://instagram.com/rafael.gfc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
