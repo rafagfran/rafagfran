@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Rafael Gonçalves!
+# 👨🏽‍💻 Rafael Gonçalves
 
 **`Graduando na FATEC-São José do Rio Preto`**
 
