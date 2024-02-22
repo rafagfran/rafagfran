@@ -11,7 +11,6 @@ Sou um estudante de tecnologia com experiencia em infraestrutura e dedicado ao e
 </div>
 
 ---
-##
 
 **🧰 Linguagens e ferramentas**
 <div>
