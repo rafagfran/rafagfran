@@ -11,9 +11,6 @@ Sou um estudante de tecnologia com experiencia em infraestrutura e dedicado ao e
 </div>
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagfran&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ##
 
 **🧰 Linguagens e ferramentas**
