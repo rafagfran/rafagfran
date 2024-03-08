@@ -1,6 +1,6 @@
-# 👨🏽‍💻 Hi there, I'm Rafael Gonçalves
-
 **`Graduando na FATEC-São José do Rio Preto`**
+
+# 👨🏽‍💻 Hi there, I'm Rafael Gonçalves
 
 Profissional de TI apaixonado por desenvolvimento de software. Empenhado em expandir e aprimorar minhas habilidades e sempre pronto para enfrentar novos desafios e explorar novas oportunidades.
 
