@@ -2,7 +2,7 @@
 
 # 👨🏽‍💻 Hi there, I'm Rafael Gonçalves
 
-Profissional de TI apaixonado por desenvolvimento de software. Empenhado em expandir e aprimorar minhas habilidades, sempre pronto para enfrentar novos desafios e explorar novas oportunidades.
+Profissional de TI apaixonado por desenvolvimento de aplicações. Empenhado em expandir e aprimorar minhas habilidades, sempre pronto para enfrentar novos desafios e explorar novas oportunidades.
 
 <div> 
   <a href = "mailto:rafagfra@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
