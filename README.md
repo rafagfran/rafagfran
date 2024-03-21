@@ -21,7 +21,7 @@ Profissional de TI apaixonado por desenvolvimento de aplicações. Empenhado em 
 <div>
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,git" />
   </a>
 </p>
 </div>
