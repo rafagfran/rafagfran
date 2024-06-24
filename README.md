@@ -1,10 +1,4 @@
-**`Graduando na FATEC-São José do Rio Preto`**
-
-# Hi there, I'm Rafael Gonçalves
-
-Profissional de TI apaixonado por desenvolvimento de aplicações. Empenhado em expandir e aprimorar minhas habilidades, sempre pronto para enfrentar novos desafios e explorar novas oportunidades.
-
-IT professional passionate about application development. Committed to expanding and enhancing my skills, always ready to take on new challenges and explore new opportunities.
+# 📄 Nome Completo
 
 <div> 
   <a href = "mailto:rafagfra@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -14,12 +8,16 @@ IT professional passionate about application development. Committed to expanding
 
 ---
 
+## Sobre Mim
+
+Iniciei minha carreira no setor de tecnologia como técnico em informática de infraestrutura, onde descobri minha paixão pelo desenvolvimento de software. Atualmente, meu foco é manter-me atualizado e aprimorar constantemente minhas habilidades como desenvolvedor, sempre em busca de novas oportunidades e desafios. Ficarei honrado em fazer parte desta equipe, pois estou confiante de que posso contribuir significativamente com meus conhecimentos e, ao mesmo tempo, aproveitar esta excelente oportunidade para aprender e crescer profissionalmente.
+
+---
+
+## Habilidades Técnicas
+
 <!--![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagfran&show_icons=true&theme=tokyonight&hide=prs&rank_icon=github)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagfran&layout=compact&theme=tokyonight)
-
-##
-
-**🧰 Linguagens e ferramentas**
 <div>
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -27,3 +25,49 @@ IT professional passionate about application development. Committed to expanding
   </a>
 </p>
 </div>
+
+
+### Linguagens de Programação
+
+- **JavaScript e TypeScript**: React, Next.js, Node.js
+- **HTML/CSS**: Bootstrap, TailwindCSS
+- **Java**: Springboot
+
+### Ferramentas e Tecnologias
+
+- **Controle de Versão**: Git, GitHub
+- **Metodologias Ágeis**: Scrum, Kanban
+
+---
+
+## Experiência Profissional
+
+### Grupo MW Brasil
+
+**Desenvolvedor Frontend**  
+*mai 2024- Presente*
+
+- Desenvolvi e mantive aplicações web usando React, Next.js e Node.js.
+- Integrei serviços de terceiros e APIs RESTful.
+- Colaborei em um ambiente ágil, participando de sprints e reuniões periódicas.
+
+---
+
+## Educação
+
+**Graduação em informática para negócios**  
+*Faculdade de tecnologia do estado de São Paulo - FATEC*  
+*2021 - 2025*
+
+---
+
+## Contato
+
+- **Email**: [rafagfra@hotmail.com](mailto:rafagfra@hotmail.com)
+- **LinkedIn**: [www.linkedin.com/in/rafagfran](https://www.linkedin.com/in/rafagfran)
+- **GitHub**: [github.com/rafagfran](https://github.com/rafagfran)
+
+---
+
+Muito obrigado pela visita ao meu perfil! Sinta-se à vontade para entrar em contato para discutir oportunidades de colaboração ou apenas para conversar sobre tecnologia.
+
