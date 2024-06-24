@@ -27,7 +27,7 @@ Iniciei minha carreira no setor de tecnologia como técnico em informática de i
 </div>
 
 
-### Linguagens de Programação
+### Linguagens
 
 - **JavaScript e TypeScript**: React, Next.js, Node.js
 - **HTML/CSS**: Bootstrap, TailwindCSS
@@ -53,7 +53,7 @@ Iniciei minha carreira no setor de tecnologia como técnico em informática de i
 
 ---
 
-## Educação
+## Formação
 
 **Graduação em informática para negócios**  
 *Faculdade de tecnologia do estado de São Paulo - FATEC*  
