@@ -21,7 +21,7 @@ Iniciei minha carreira no setor de tecnologia como técnico em informática de i
 <div>
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,sass,java,git" />
   </a>
 </p>
 </div>
