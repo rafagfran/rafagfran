@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Iniciei minha carreira no setor de tecnologia como técnico em informática de infraestrutura, onde descobri minha paixão pelo desenvolvimento de software. Atualmente, meu foco é manter-me atualizado e aprimorar constantemente minhas habilidades como desenvolvedor, sempre em busca de novas oportunidades e desafios. Ficarei honrado em fazer parte desta equipe, pois estou confiante de que posso contribuir significativamente com meus conhecimentos e, ao mesmo tempo, aproveitar esta excelente oportunidade para aprender e crescer profissionalmente.
+Iniciei minha carreira no setor de tecnologia como técnico em informática de infraestrutura, onde descobri minha paixão pelo desenvolvimento de software. Atualmente sou desenvolvedor e meu foco é manter-me atualizado e aprimorar constantemente minhas habilidades, sempre em busca de novas oportunidades e desafios. 
 
 ---
 
