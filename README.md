@@ -30,8 +30,8 @@ Iniciei minha carreira no setor de tecnologia como técnico em informática de i
 ### Linguagens
 
 - **JavaScript e TypeScript**: React, Next.js, Node.js
-- **HTML/CSS**: Bootstrap, TailwindCSS
-- **Java**: Springboot
+- **HTML/CSS**: TailwindCSS, SASS
+- **Java**
 
 ### Ferramentas e Tecnologias
 
