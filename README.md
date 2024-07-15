@@ -1,16 +1,12 @@
-# 📄 Rafael Gonçalves Francisco
+# Rafael Gonçalves Francisco
+
+👋 Seja bem-vindo! Aqui você pode acompanhar minhas atividades recentes e explorar alguns dos meus projetos pessoais.
 
 <div> 
   <a href = "mailto:rafagfra@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href=https://www.linkedin.com/in/rafael-g-francisco-90a886210/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/17992849794"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-
----
-
-## Sobre Mim
-
-Iniciei minha carreira no setor de tecnologia como técnico em informática de infraestrutura, onde descobri minha paixão pelo desenvolvimento de software. Atualmente sou desenvolvedor e meu foco é manter-me atualizado e aprimorar constantemente minhas habilidades, sempre em busca de novas oportunidades e desafios. 
 
 ---
 
@@ -21,7 +17,7 @@ Iniciei minha carreira no setor de tecnologia como técnico em informática de i
 <div>
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,sass,java,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,sass,git" />
   </a>
 </p>
 </div>
@@ -37,27 +33,6 @@ Iniciei minha carreira no setor de tecnologia como técnico em informática de i
 
 - **Controle de Versão**: Git, GitHub
 - **Metodologias Ágeis**: Scrum, Kanban
-
----
-
-## Experiência Profissional
-
-### Grupo MW Brasil
-
-**Desenvolvedor Frontend**  
-*mai 2024- Presente*
-
-- Desenvolvi e mantive aplicações web usando React, Next.js e Node.js.
-- Integrei serviços de terceiros e APIs RESTful.
-- Colaborei em um ambiente ágil, participando de sprints e reuniões periódicas.
-
----
-
-## Formação
-
-**Graduação em informática para negócios**  
-*Faculdade de tecnologia do estado de São Paulo - FATEC*  
-*2021 - 2025*
 
 ---
 
