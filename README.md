@@ -26,7 +26,3 @@
 - **LinkedIn**: [www.linkedin.com/in/rafagfran](https://www.linkedin.com/in/rafagfran)
 - **GitHub**: [github.com/rafagfran](https://github.com/rafagfran)
 
----
-
-Muito obrigado pela visita ao meu perfil! Sinta-se à vontade para entrar em contato para discutir oportunidades de colaboração ou apenas para conversar sobre tecnologia.
-
