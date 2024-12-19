@@ -22,8 +22,6 @@
 </p>
 </div>
 
----
-
 ## Contato
 
 - **Email**: [rafagfra@hotmail.com](mailto:rafagfra@hotmail.com)
