@@ -22,18 +22,6 @@
 </p>
 </div>
 
-
-### Linguagens
-
-- **JavaScript e TypeScript**: React, Next.js, Node.js
-- **HTML/CSS**: TailwindCSS, SASS
-- **Java**
-
-### Ferramentas e Tecnologias
-
-- **Controle de Versão**: Git, GitHub
-- **Metodologias Ágeis**: Scrum, Kanban
-
 ---
 
 ## Contato
