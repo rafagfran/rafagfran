@@ -15,7 +15,7 @@
 <div>
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,sass,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,sass,git,vue,express" />
   </a>
 </p>
 </div>
