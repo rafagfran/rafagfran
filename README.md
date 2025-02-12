@@ -15,7 +15,17 @@
 <div>
 <p align="left">
   <a href="https://www.linkedin.com/in/rafagfran/">
-    <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,nest,angular,vue,express,tailwind,sass,git" />
+    <img src="https://skillicons.dev/icons?i=ts,react,next,angular,vue"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafagfran/">
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,tailwind,sass"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafagfran/">
+    <img src="https://skillicons.dev/icons?i=git"/>
   </a>
 </p>
 </div>
