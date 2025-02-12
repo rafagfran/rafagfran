@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagfran&layout=compact&theme=tokyonight)
 <div>
 <p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a href="https://www.linkedin.com/in/rafagfran/">
     <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,nest,angular,vue,express,tailwind,sass,git" />
   </a>
 </p>
