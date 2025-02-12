@@ -6,7 +6,7 @@
   <a href="https://wa.me/17992849794" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
----
+<br/>
 
 <!--![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagfran&show_icons=true&theme=tokyonight&hide=prs&rank_icon=github)-->
 
