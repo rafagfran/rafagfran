@@ -13,7 +13,7 @@
 <div>
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,sass,git,vue,express" />
+    <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,nest,angular,vue,express,tailwind,sass,git" />
   </a>
 </p>
 </div>
