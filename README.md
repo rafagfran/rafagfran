@@ -9,7 +9,9 @@
 ---
 
 <!--![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagfran&show_icons=true&theme=tokyonight&hide=prs&rank_icon=github)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagfran&layout=compact&theme=tokyonight)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagfran&layout=compact&theme=tokyonight)](https://www.linkedin.com/in/rafagfran/)
+
 <div>
 <p align="left">
   <a href="https://www.linkedin.com/in/rafagfran/">
