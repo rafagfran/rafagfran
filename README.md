@@ -15,12 +15,12 @@
 <div>
 <p align="left">
   <a href="https://www.linkedin.com/in/rafagfran/">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,next,angular,vue"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,next,angular"/>
   </a>
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/rafagfran/">
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,tailwind,sass"/>
+    <img src="https://skillicons.dev/icons?i=vue,nodejs,nest,express,tailwind,sass"/>
   </a>
 </p>
 <p align="left">
