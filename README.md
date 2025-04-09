@@ -15,7 +15,7 @@
 <div>
 <p align="left">
   <a href="https://www.linkedin.com/in/rafagfran/">
-    <img src="https://skillicons.dev/icons?i=java,ts,react,next,angular,vue"/>
+    <img src="https://skillicons.dev/icons?i=java,springboot,ts,react,next,angular,vue"/>
   </a>
 </p>
 <p align="left">
