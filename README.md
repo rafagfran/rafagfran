@@ -8,14 +8,10 @@
 
 <br/>
 
-<!--![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagfran&show_icons=true&theme=tokyonight&hide=prs&rank_icon=github)-->
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagfran&layout=compact&theme=tokyonight)](https://www.linkedin.com/in/rafagfran/)
-
 <div>
 <p align="left">
   <a href="https://www.linkedin.com/in/rafagfran/">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,next,angular"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,next,angular,graphql"/>
   </a>
 </p>
 <p align="left">
